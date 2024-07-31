@@ -4,3 +4,25 @@ body{
 img{
     border-radius: 30px;
 }
+
+h1 {
+    color: brown;
+}
+h2{
+    color: white;
+}
+p {
+    color: white;
+}
+th{
+    color: white;
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+strong {
+    color: black;
+}
